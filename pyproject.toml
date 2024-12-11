@@ -1,0 +1,7 @@
+[reddit.config]
+    client_id="<CLIENT_ID>"
+    client_secret="<CLIENT_SECRET>"
+    user_agent="<APP_NAME>/1.0 by <USERNAME>"
+    username="<USERNAME>"
+    password="<PASSWORD>"
+    ratelimit_seconds=600
